@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome Party!",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi non, dicta optio cumque nulla odit dignissimos ducimus nisi in quae harum natus ullam hic provident nemo obcaecati. Nihil, voluptatibus susci",
+      "auther": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi non, dicta optio cumque nulla odit dignissimos ducimus nisi in quae harum natus ullam hic provident nemo obcaecati. Nihil, voluptatibus susci",
+      "auther": "mario",
+      "id": 3
+    },
+    {
+      "title": "fdsf",
+      "body": "fsdfs",
+      "auther": "mario",
+      "id": 6
+    },
+    {
+      "title": "fdsf",
+      "body": "fsdfs",
+      "auther": "mario",
+      "id": 8
+    },
+    {
+      "title": "fdsf",
+      "body": "fsdfs",
+      "auther": "mario",
+      "id": 9
+    },
+    {
+      "title": "fdsf",
+      "body": "fsdfs",
+      "auther": "mario",
+      "id": 10
+    },
+    {
+      "title": "fdsf",
+      "body": "fsdfs",
+      "auther": "mario",
+      "id": 11
+    }
+  ]
+}
